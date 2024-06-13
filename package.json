@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "microservice.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "echo 'running build'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^22.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
